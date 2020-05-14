@@ -1,4 +1,4 @@
-# MysqlAutomatedShell
+# MysqlAutomatedShellScript
   Mysql Automated Backup Shell Script for Linux server (Debian based systems).
   
   The script takes 2 backup daily on a given time.
